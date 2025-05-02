@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "C:\\Users\\LENOVO YOGA 7\\Documents\\flutter\\packages\\flutter_tools\\gradle\\src\\main\\groovy\\CMakeLists.txt"
+  ],
+  "cleanCommandsComponents": [
+    [
+      "C:\\Users\\LENOVO YOGA 7\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+      "-C",
+      "C:\\Users\\LENOVO YOGA 7\\Documents\\Universitas Indonesia\\Hckatom\\courall\\android\\app\\.cxx\\Debug\\5n2k1r6j\\x86_64",
+      "clean"
+    ]
+  ],
+  "buildTargetsCommandComponents": [
+    "C:\\Users\\LENOVO YOGA 7\\AppData\\Local\\Android\\sdk\\cmake\\3.22.1\\bin\\ninja.exe",
+    "-C",
+    "C:\\Users\\LENOVO YOGA 7\\Documents\\Universitas Indonesia\\Hckatom\\courall\\android\\app\\.cxx\\Debug\\5n2k1r6j\\x86_64",
+    "{LIST_OF_TARGETS_TO_BUILD}"
+  ],
+  "libraries": {}
+}

@@ -1,0 +1,2 @@
+C:/Users/LENOVO YOGA 7/Documents/Universitas Indonesia/Hckatom/courall/android/app/.cxx/Debug/5n2k1r6j/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Users/LENOVO YOGA 7/Documents/Universitas Indonesia/Hckatom/courall/android/app/.cxx/Debug/5n2k1r6j/armeabi-v7a/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1000552656689",
+    "project_id": "hekaton-97023",
+    "storage_bucket": "hekaton-97023.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1000552656689:android:cde7ce39061d5f39988a10",
+        "android_client_info": {
+          "package_name": "com.example.courall"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCBUXzIbHhPFRFqMco5cdv1ehpbmgWiXI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
