@@ -11,7 +11,7 @@ import 'package:youtube_player_flutter/youtube_player_flutter.dart';
 
 // Replace with your actual YouTube Data API key
 const String apiKey =
-    'AIzaSyBOfqKSvgWxewspVhqIDUEHsrHPu5xqFs8'; // GANTI DENGAN API KEY VALID ANDA
+    ''; // GANTI DENGAN API KEY VALID ANDA
 
 class MainMenu extends StatefulWidget {
   const MainMenu({super.key});
